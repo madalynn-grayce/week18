@@ -1,0 +1,42 @@
+img{
+    width: 200px;
+    height: auto;
+
+}
+
+.logo{
+    width: 75px;
+    height: auto;
+}
+
+#lol {background-color: pink;}
+
+body{ 
+    background-color: rgb(255, 189, 229);
+}
+
+li{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border: 1px;
+}
+
+
+button{
+    background-color: lightpink;
+}
+
+
+<!--my ux section coded using css flex-->
+
+div{
+    display: flex;
+    flex-direction: row;
+}
+
+work-row{
+    flex-direction: row;
+}
+
